@@ -25,7 +25,7 @@
     <clipPath id="heroCrop"><path d="M0 0H390V676l-18 10-16-8-20 14-19-8-19 13-20-9-21 14-18-9-20 13-21-10-18 10-19-8-20 10-18-8-20 11-17-8-17 7z"/></clipPath>
     <clipPath id="datePhoto"><path d="M232 887l158 18v390l-29 18-127-12-18-31 16-341z"/></clipPath>
     <clipPath id="venuePhoto"><path d="M0 1730h390v320l-17 8-15-7-18 12-17-7-16 10-21-9-18 12-19-8-15 11-18-9-17 12-19-8-19 9-19-11-19 8-19-10-20 11-18-9-18 9z"/></clipPath>
-    <clipPath id="caveFragment"><path d="M228 2665l162 11v539l-19 11-16-8-16 14-20-12-16 11-18-9-19 13-18-11-20 11-18-12-17 10-18-11z"/></clipPath>
+    <clipPath id="caveFragment"><path d="M206 2665l184 11v539l-19 11-16-8-16 14-20-12-16 11-18-9-19 13-18-11-20 11-18-12-17 10-18-11z"/></clipPath>
     <clipPath id="pauseCrop"><path d="M0 3038h390v416H0z"/></clipPath>
     <clipPath id="dressPhoto"><path d="M214 3656l141-14v514l-27 12-23-10-24 14-22-10-24 12-21-10z"/></clipPath>
     <clipPath id="rsvpPhoto"><path d="M0 5360h390v616l-20 10-18-12-19 12-18-11-19 13-20-12-20 11-18-11-18 10-19-12-19 11-18-10-18 9-19-12-19 10-18-10-19 11-18-9z"/></clipPath>
@@ -116,7 +116,7 @@
   <!-- Photo 2 is a cropped memory that begins under the place and crosses into the pause. -->
   <g clip-path="url(#caveFragment)">
     <image href="../candidata-premium/public/images/alfredo-02.jpg" x="38" y="2585" width="402" height="660" preserveAspectRatio="xMidYMid slice"/>
-    <path d="M228 2665h162v540H228z" fill="#18263b" opacity=".08"/>
+    <path d="M175 2665h215v539H175z" fill="#18263b" opacity=".08"/>
   </g>
   <path d="M0 3454h390v180H0z" fill="#111c2b"/>
   <text x="25" y="3500" fill="#d36a50" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">ALFREDO · 75</text>
