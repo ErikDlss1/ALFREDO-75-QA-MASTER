@@ -115,7 +115,7 @@
   </g>
   <!-- Photo 2 is a cropped memory that begins under the place and crosses into the pause. -->
   <g clip-path="url(#caveFragment)">
-    <image href="../candidata-premium/public/images/alfredo-02.jpg" x="0" y="2585" width="402" height="660" preserveAspectRatio="xMidYMid slice"/>
+    <image href="../candidata-premium/public/images/alfredo-02.jpg" x="38" y="2585" width="402" height="660" preserveAspectRatio="xMidYMid slice"/>
     <path d="M228 2665h162v540H228z" fill="#18263b" opacity=".08"/>
   </g>
   <path d="M0 3454h390v180H0z" fill="#111c2b"/>
