@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="6920" viewBox="0 0 390 6920" role="img" aria-labelledby="title desc">
+  <title id="title">Master visual — Mis 75 años · Alfredo</title>
+  <desc id="desc">Propuesta editorial vertical en tinta azul, papel marfil y rojo arcilla. Las fotografías originales forman una tira continua; el mapa se reserva para el mapa real en la implementación.</desc>
+  <defs>
+    <linearGradient id="heroShade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101a28" stop-opacity=".04"/>
+      <stop offset=".53" stop-color="#101a28" stop-opacity=".04"/>
+      <stop offset="1" stop-color="#101a28" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="rsvpShade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111c2b" stop-opacity=".12"/>
+      <stop offset=".45" stop-color="#111c2b" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#111c2b" stop-opacity=".98"/>
+    </linearGradient>
+    <linearGradient id="venueInk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#142337" stop-opacity="0"/>
+      <stop offset="1" stop-color="#142337" stop-opacity=".92"/>
+    </linearGradient>
+    <pattern id="grain" width="96" height="96" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="15" r=".75" fill="#26364a" opacity=".16"/>
+      <circle cx="62" cy="31" r=".55" fill="#26364a" opacity=".12"/>
+      <circle cx="35" cy="77" r=".7" fill="#26364a" opacity=".12"/>
+      <path d="M10 48h11M71 84h9M46 8h6" stroke="#a55a49" stroke-width=".5" opacity=".15"/>
+    </pattern>
+    <clipPath id="heroCrop"><path d="M0 0H390V676l-18 10-16-8-20 14-19-8-19 13-20-9-21 14-18-9-20 13-21-10-18 10-19-8-20 10-18-8-20 11-17-8-17 7z"/></clipPath>
+    <clipPath id="datePhoto"><path d="M232 887l158 18v390l-29 18-127-12-18-31 16-341z"/></clipPath>
+    <clipPath id="venuePhoto"><path d="M0 1730h390v320l-17 8-15-7-18 12-17-7-16 10-21-9-18 12-19-8-15 11-18-9-17 12-19-8-19 9-19-11-19 8-19-10-20 11-18-9-18 9z"/></clipPath>
+    <clipPath id="caveFragment"><path d="M228 2665l162 11v539l-19 11-16-8-16 14-20-12-16 11-18-9-19 13-18-11-20 11-18-12-17 10-18-11z"/></clipPath>
+    <clipPath id="pauseCrop"><path d="M0 3038h390v416H0z"/></clipPath>
+    <clipPath id="dressPhoto"><path d="M214 3656l141-14v514l-27 12-23-10-24 14-22-10-24 12-21-10z"/></clipPath>
+    <clipPath id="rsvpPhoto"><path d="M0 5360h390v616l-20 10-18-12-19 12-18-11-19 13-20-12-20 11-18-11-18 10-19-12-19 11-18-10-18 9-19-12-19 10-18-10-19 11-18-9z"/></clipPath>
+    <clipPath id="closingPrint"><path d="M244 6370h146v263l-18 12-18-10-20 13-20-12-18 11-17-10-18 9-17-12z"/></clipPath>
+  </defs>
+
+  <!-- Cover: Photo 7 carries the invitation; its full-body gesture and party lights set the tone. -->
+  <rect width="390" height="6920" fill="#111c2b"/>
+  <g clip-path="url(#heroCrop)">
+    <image href="../candidata-premium/public/images/alfredo-07.jpg" x="-9" y="-48" width="408" height="1050" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="0" width="390" height="700" fill="url(#heroShade)"/>
+  </g>
+  <path d="M24 34h47M24 40h27" stroke="#f2e7d5" stroke-width="1" opacity=".75"/>
+  <text x="82" y="40" fill="#f5ead9" font-family="Arial, sans-serif" font-size="9" letter-spacing="2.1">INVITACIÓN · 14.11.26</text>
+  <text x="22" y="572" fill="#d36a50" font-family="Georgia, serif" font-size="203" letter-spacing="-15">75</text>
+  <text x="185" y="628" fill="#fff0db" font-family="Georgia, serif" font-size="48" letter-spacing="-2.5">Alfredo</text>
+  <path d="M25 650h132" stroke="#f2e7d5" stroke-width="1.2" opacity=".8"/>
+  <text x="25" y="676" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="10" letter-spacing="2.15">UNA VIDA LLENA DE HISTORIAS</text>
+  <g transform="translate(22 744)">
+    <circle cx="18" cy="18" r="17" fill="#d36a50"/>
+    <path d="M14 11v14m8-14v14" stroke="#111c2b" stroke-width="1.8"/>
+    <text x="47" y="16" fill="#fff0db" font-family="Georgia, serif" font-size="15">Piero — Mi Viejo</text>
+    <text x="47" y="33" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="8" letter-spacing="1.8">TÓCAME PARA PAUSAR</text>
+    <path d="M302 16h38m-7-7 7 7-7 7" fill="none" stroke="#f2e7d5" stroke-width="1"/>
+  </g>
+  <path d="M0 844h390" stroke="#d36a50" stroke-width="2"/>
+
+  <!-- Date: Photo 3 is a diagonal plate behind the date; the 14 is the dominant mark. -->
+  <path d="M0 844h390v866l-22 10-19-8-20 12-22-9-18 12-20-9-17 10-18-9-21 10-19-7-21 10-18-8-20 10-19-8-20 9-18-8-18 8-19-7-20 9-20-8-20 8-20-8-20 8V844z" fill="#f1e4cf"/>
+  <rect x="0" y="844" width="390" height="872" fill="url(#grain)" opacity=".55"/>
+  <g clip-path="url(#datePhoto)">
+    <image href="../candidata-premium/public/images/alfredo-03.jpg" x="205" y="882" width="204" height="410" preserveAspectRatio="xMidYMid slice"/>
+    <path d="M232 887l158 18v390l-29 18-127-12-18-31 16-341z" fill="#111c2b" opacity=".06"/>
+  </g>
+  <path d="M24 920h49" stroke="#bc5b48" stroke-width="2"/>
+  <text x="24" y="951" fill="#182638" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">SÁBADO</text>
+  <text x="7" y="1228" fill="#bd5948" font-family="Georgia, serif" font-size="306" letter-spacing="-24">14</text>
+  <text x="27" y="1260" fill="#182638" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2.5">NOVIEMBRE</text>
+  <text x="28" y="1290" fill="#182638" font-family="Georgia, serif" font-size="22">2026</text>
+  <text x="27" y="1372" fill="#182638" font-family="Georgia, serif" font-size="46" letter-spacing="-1.8">6:00</text>
+  <text x="141" y="1370" fill="#182638" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">P.M.</text>
+  <path d="M24 1410h342" stroke="#182638" stroke-width=".8" opacity=".42"/>
+  <text x="24" y="1441" fill="#182638" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">FALTAN</text>
+  <g fill="#182638" font-family="Georgia, serif" text-anchor="middle">
+    <text x="91" y="1492" font-size="35">36</text><text x="195" y="1492" font-size="35">16</text><text x="299" y="1492" font-size="35">13</text>
+  </g>
+  <g fill="#182638" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.2" text-anchor="middle">
+    <text x="91" y="1510">DÍAS</text><text x="195" y="1510">HORAS</text><text x="299" y="1510">MINUTOS</text>
+  </g>
+  <path d="M24 1533h342" stroke="#182638" stroke-width=".8" opacity=".42"/>
+  <text x="25" y="1581" fill="#182638" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">AGREGAR AL CALENDARIO</text>
+  <circle cx="348" cy="1577" r="18" fill="none" stroke="#bd5948" stroke-width="1.4"/>
+  <path d="M348 1568v18m-7-9h14" stroke="#bd5948" stroke-width="1.4"/>
+  <path d="M25 1642h340" stroke="#bd5948" stroke-width="1.4"/>
+
+  <!-- Location: photo 8 creates the landscape; the address remains on the same ink plane. -->
+  <g clip-path="url(#venuePhoto)">
+    <image href="../candidata-premium/public/images/alfredo-08.jpg" x="-77" y="1725" width="545" height="380" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="1730" width="390" height="330" fill="url(#venueInk)"/>
+  </g>
+  <rect x="0" y="2048" width="390" height="760" fill="#142337"/>
+  <path d="M0 2044l18 8 19-11 20 8 18-11 18 9 20-11 21 8 19-10 20 8 18-11 20 9 18-10 21 9 18-10 19 8 20-9 22 9 20-10 18 9 20-10 22 9 18-9v18H0z" fill="#f1e4cf"/>
+  <text x="24" y="1906" fill="#fff0dc" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.4">NOS ENCONTRAMOS EN</text>
+  <text x="22" y="1974" fill="#fff0dc" font-family="Georgia, serif" font-size="62" letter-spacing="-3.5">Glück</text>
+  <text x="27" y="2002" fill="#fff0dc" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2">SALÓN DE EVENTOS</text>
+  <path d="M25 2100v142" stroke="#d36a50" stroke-width="3"/>
+  <text x="42" y="2110" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="13">Ciprés 585,</text>
+  <text x="42" y="2133" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="13">Mactumatza,</text>
+  <text x="42" y="2156" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="13">29057 Tuxtla Gutiérrez,</text>
+  <text x="42" y="2179" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="13">Chiapas, México</text>
+  <text x="42" y="2221" fill="#e1876b" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.6">ABRIR MAPS ↗</text>
+  <path d="M24 2260h342" stroke="#f2e7d5" stroke-width=".7" opacity=".4"/>
+  <text x="24" y="2290" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">MAPA REAL · GLÜCK</text>
+  <rect x="24" y="2310" width="342" height="238" fill="#eee7dc"/>
+  <path d="M35 2324h320v210H35z" fill="none" stroke="#c0b8ab" stroke-width="1" stroke-dasharray="3 4"/>
+  <text x="195" y="2432" fill="#6b6570" font-family="Arial, sans-serif" font-size="11" text-anchor="middle" letter-spacing="1.2">INCRUSTAR MAPA DE GOOGLE</text>
+  <text x="195" y="2454" fill="#6b6570" font-family="Georgia, serif" font-size="14" text-anchor="middle">Calles reales · marcador Glück</text>
+  <text x="25" y="2604" fill="#d36a50" font-family="Georgia, serif" font-size="18" font-style="italic">Mactumatza, Tuxtla Gutiérrez</text>
+
+  <path d="M0 2784h390v794H0z" fill="#111c2b"/>
+  <path d="M0 2784l23 10 20-9 18 11 20-8 22 10 18-11 19 9 20-12 20 11 20-10 20 10 20-11 18 11 20-10 19 9 18-10 20 9 18-11 20 9 19-11 20 10 18-8 20 9v18H0z" fill="#142337"/>
+
+  <!-- Quiet pause: Photo 1 keeps its broad gesture intact at natural proportions. -->
+  <rect x="0" y="3038" width="390" height="416" fill="#283248"/>
+  <g clip-path="url(#pauseCrop)">
+    <image href="../candidata-premium/public/images/alfredo-01.jpg" x="0" y="3038" width="390" height="416" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <!-- Photo 2 is a cropped memory that begins under the place and crosses into the pause. -->
+  <g clip-path="url(#caveFragment)">
+    <image href="../candidata-premium/public/images/alfredo-02.jpg" x="0" y="2585" width="402" height="660" preserveAspectRatio="xMidYMid slice"/>
+    <path d="M228 2665h162v540H228z" fill="#18263b" opacity=".08"/>
+  </g>
+  <path d="M0 3454h390v180H0z" fill="#111c2b"/>
+  <text x="25" y="3500" fill="#d36a50" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2">ALFREDO · 75</text>
+  <path d="M25 3515h54" stroke="#d36a50" stroke-width="1.5"/>
+
+  <!-- Dress: photo 4 becomes a narrow, almost tactile crop of the real suit and tie. -->
+  <path d="M0 3634h390v802H0z" fill="#f1e4cf"/>
+  <rect x="0" y="3634" width="390" height="802" fill="url(#grain)" opacity=".4"/>
+  <g clip-path="url(#dressPhoto)">
+    <image href="../candidata-premium/public/images/alfredo-04.jpg" x="182" y="3638" width="211" height="549" preserveAspectRatio="xMinYMid slice"/>
+  </g>
+  <path d="M22 3890h112" stroke="#bd5948" stroke-width="2"/>
+  <text x="24" y="3920" fill="#182638" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.6">CÓDIGO DE</text>
+  <text x="24" y="3940" fill="#182638" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.6">VESTIMENTA</text>
+  <text x="17" y="4021" fill="#bd5948" font-family="Georgia, serif" font-size="41" letter-spacing="-1.5">Casual</text>
+  <text x="21" y="4070" fill="#182638" font-family="Georgia, serif" font-size="39" font-style="italic" letter-spacing="-1.2">elegante</text>
+  <text x="24" y="4138" fill="#182638" font-family="Arial, sans-serif" font-size="13">Ven como te sientas bien.</text>
+  <path d="M24 4190h136" stroke="#182638" stroke-width=".8" opacity=".42"/>
+  <text x="24" y="4221" fill="#765a50" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">UNA NOCHE PARA COMPARTIR</text>
+
+  <!-- Gifts: a folded letter is inserted through a real slit; no stock icon or gift box. -->
+  <path d="M0 4436h390v895H0z" fill="#c9a391"/>
+  <path d="M17 4530l352-38v711l-350 25z" fill="#f7ecda"/>
+  <path d="M17 4530l169 192 183-230v33L186 4724 17 4560z" fill="#ead8c4"/>
+  <path d="M186 4722l183-230v28L189 4763l-172-194v-35z" fill="#e2ccb7"/>
+  <path d="M52 4580h46" stroke="#bd5948" stroke-width="2"/>
+  <text x="111" y="4585" fill="#182638" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.7">UN DETALLE · ALFREDO 75</text>
+  <text x="49" y="4685" fill="#182638" font-family="Georgia, serif" font-size="31" letter-spacing="-1.1">Tu presencia es</text>
+  <text x="49" y="4724" fill="#182638" font-family="Georgia, serif" font-size="31" letter-spacing="-1.1">lo más importante</text>
+  <text x="49" y="4763" fill="#182638" font-family="Georgia, serif" font-size="31" letter-spacing="-1.1">para mí.</text>
+  <text x="50" y="4841" fill="#342b31" font-family="Arial, sans-serif" font-size="14">No hace falta que me traigas un regalo.</text>
+  <text x="50" y="4871" fill="#342b31" font-family="Arial, sans-serif" font-size="14">Si deseas tener un detalle conmigo,</text>
+  <text x="50" y="4901" fill="#342b31" font-family="Arial, sans-serif" font-size="14">habrá un buzón en la entrada.</text>
+  <path d="M0 5050h390v235H0z" fill="#152337"/>
+  <path d="M42 5106h306v78H42z" fill="#101a28" stroke="#d36a50" stroke-width="1"/>
+  <path d="M57 5145h275" stroke="#d8c8b5" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="195" y="5129" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="2">BUZÓN · EN LA ENTRADA</text>
+  <path d="M172 5184l23 20 23-20" fill="none" stroke="#d36a50" stroke-width="2"/>
+
+  <!-- RSVP: the microphone photograph becomes the ground for the invitation to join. -->
+  <g clip-path="url(#rsvpPhoto)">
+    <image href="../candidata-premium/public/images/alfredo-06.jpg" x="-4" y="5357" width="398" height="734" preserveAspectRatio="xMidYMid slice"/>
+    <rect x="0" y="5360" width="390" height="616" fill="url(#rsvpShade)"/>
+  </g>
+  <rect x="0" y="5966" width="390" height="528" fill="#111c2b"/>
+  <path d="M0 5963l20 10 19-10 19 11 21-9 19 10 20-12 20 10 19-9 20 10 19-11 20 10 20-9 19 11 19-10 21 9 18-10 20 10 18-8 18 10 20-11 20 9 20-10 20 10v18H0z" fill="#111c2b"/>
+  <text x="25" y="5470" fill="#fff0dc" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.2">TE ESPERO EL</text>
+  <text x="17" y="5723" fill="#fff0dc" font-family="Georgia, serif" font-size="211" letter-spacing="-17">01</text>
+  <text x="204" y="5667" fill="#fff0dc" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">NOVIEMBRE</text>
+  <text x="205" y="5692" fill="#fff0dc" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">2026</text>
+  <text x="25" y="6029" fill="#d36a50" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2.2">CONFIRMA TU ASISTENCIA</text>
+  <text x="24" y="6082" fill="#f2e7d5" font-family="Georgia, serif" font-size="29" letter-spacing="-.8">Nos vemos pronto.</text>
+  <path d="M24 6110h342" stroke="#f2e7d5" stroke-width=".8" opacity=".56"/>
+  <path d="M24 6140h342v62H24z" fill="#f2e7d5"/>
+  <circle cx="52" cy="6171" r="13" fill="#27805b"/>
+  <text x="52" y="6176" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">↗</text>
+  <text x="77" y="6175" fill="#182638" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".8">CONFIRMAR POR WHATSAPP</text>
+  <text x="25" y="6240" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="13">+52 961 307 0923</text>
+
+  <!-- Ending echoes the opening photograph as a small print and the A/75 seal. -->
+  <path d="M0 6494h390v426H0z" fill="#111c2b"/>
+  <path d="M20 6525h350" stroke="#d36a50" stroke-width="1.2"/>
+  <circle cx="38" cy="6525" r="11" fill="#d36a50"/>
+  <text x="38" y="6529" fill="#111c2b" font-family="Georgia, serif" font-size="10" text-anchor="middle">A</text>
+  <text x="61" y="6530" fill="#f2e7d5" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.7">ALFREDO · 75 AÑOS</text>
+  <text x="24" y="6614" fill="#f2e7d5" font-family="Georgia, serif" font-size="34" letter-spacing="-.8">Será un honor</text>
+  <text x="24" y="6655" fill="#f2e7d5" font-family="Georgia, serif" font-size="34" letter-spacing="-.8">compartir esta</text>
+  <text x="24" y="6696" fill="#f2e7d5" font-family="Georgia, serif" font-size="34" letter-spacing="-.8">noche contigo.</text>
+  <g clip-path="url(#closingPrint)">
+    <image href="../candidata-premium/public/images/alfredo-07.jpg" x="236" y="6350" width="166" height="428" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <path d="M0 6760l195 86 195-86v160H0z" fill="#e7d9c5"/>
+  <path d="M0 6760l195 86 195-86" fill="none" stroke="#bd5948" stroke-width="1.5"/>
+  <text x="24" y="6855" fill="#182638" font-family="Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.4">SÁBADO · 14 NOVIEMBRE 2026 · 6:00 P.M.</text>
+</svg>
