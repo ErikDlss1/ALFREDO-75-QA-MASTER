@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="390" height="6920" viewBox="0 0 390 6920" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="6800" viewBox="0 0 390 6800" role="img" aria-labelledby="title desc">
   <title id="title">Master visual — Mis 75 años · Alfredo</title>
   <desc id="desc">Propuesta editorial vertical en tinta azul, papel marfil y rojo arcilla. Las fotografías originales forman una tira continua; el mapa se reserva para el mapa real en la implementación.</desc>
   <defs>
@@ -33,7 +33,7 @@
   </defs>
 
   <!-- Cover: Photo 7 carries the invitation; its full-body gesture and party lights set the tone. -->
-  <rect width="390" height="6920" fill="#111c2b"/>
+  <rect width="390" height="6800" fill="#111c2b"/>
   <g clip-path="url(#heroCrop)">
     <image href="../candidata-premium/public/images/alfredo-07.jpg" x="-9" y="-48" width="408" height="1050" preserveAspectRatio="xMidYMid slice"/>
     <rect x="0" y="0" width="390" height="700" fill="url(#heroShade)"/>
@@ -137,6 +137,7 @@
   <path d="M24 4190h136" stroke="#182638" stroke-width=".8" opacity=".42"/>
   <text x="24" y="4221" fill="#765a50" font-family="Arial, sans-serif" font-size="9" letter-spacing="1.4">UNA NOCHE PARA COMPARTIR</text>
 
+  <g transform="translate(0 -120)">
   <!-- Gifts: a folded letter is inserted through a real slit; no stock icon or gift box. -->
   <path d="M0 4436h390v895H0z" fill="#c9a391"/>
   <path d="M17 4530l352-38v711l-350 25z" fill="#f7ecda"/>
@@ -191,4 +192,5 @@
   <path d="M0 6760l195 86 195-86v160H0z" fill="#e7d9c5"/>
   <path d="M0 6760l195 86 195-86" fill="none" stroke="#bd5948" stroke-width="1.5"/>
   <text x="24" y="6855" fill="#182638" font-family="Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.4">SÁBADO · 14 NOVIEMBRE 2026 · 6:00 P.M.</text>
+  </g>
 </svg>
